@@ -20,9 +20,9 @@ I'm a **Data Analyst** experienced in business and operational analytics, focuse
 <div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
 
 
-## 💼 Corporate Foundation (4 years of experince in Business Analysis and Operational Reports | 6+ Years of Data Analytical Experience -  MIS & WFM)
+## 💼 Corporate Foundation ( 4+ Years of Data Analytical Experience -  MIS, WFM analytics & Reporting)
 
-Overall 11+ Years of diverse experince in IT sector. My extensive corporate experience provides a strong analytical and domain-specific foundation crucial for Data Science applications:
+Overall 10+ Years of diverse domain experince in IT sector. My extensive corporate experience provides a strong analytical and domain-specific foundation crucial for Data Analytics applications:
 
 * 🌍 **Business Immigration (Fragomen):** Business Analysis - 4 years
 * 🧩 **HR (Wipro):** Applying analytics methods to complex organizational, HR, Payroll, Finance. - Above 5 years
